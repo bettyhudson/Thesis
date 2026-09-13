@@ -10,6 +10,5 @@ Scripts for data analysis:
 6. Word counting and printing results
 7. Graph generation script for Speech Rate (WPM)
 8. Graph generation script for disruptive pauses + lengthenings
-9. Graph generation script for total number of pauses + lengthenings
 
 Note: Generative AI was used in the process of creating these scripts. They were manually reviewed.
